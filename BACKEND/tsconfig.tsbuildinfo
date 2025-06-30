@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/database/db.ts","./src/middelware/signInAuth.ts","./src/routers/balance.ts","./src/routers/signIn.ts","./src/routers/signUp.ts","./src/routers/transaction.ts","./src/routers/updateUser.ts","./src/routers/userAccount.ts"],"version":"5.8.3"}
